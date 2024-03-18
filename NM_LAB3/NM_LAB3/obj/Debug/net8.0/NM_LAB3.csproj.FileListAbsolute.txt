@@ -1,0 +1,14 @@
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\bin\Debug\net8.0\NM_LAB3.exe
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\bin\Debug\net8.0\NM_LAB3.deps.json
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\bin\Debug\net8.0\NM_LAB3.runtimeconfig.json
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\bin\Debug\net8.0\NM_LAB3.dll
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\bin\Debug\net8.0\NM_LAB3.pdb
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.AssemblyInfoInputs.cache
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.AssemblyInfo.cs
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.dll
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\refint\NM_LAB3.dll
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.pdb
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\NM_LAB3.genruntimeconfig.cache
+C:\Users\svyat\source\repos\NM_LAB3\NM_LAB3\obj\Debug\net8.0\ref\NM_LAB3.dll
